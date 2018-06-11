@@ -5,6 +5,13 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy import signal
 
+####http://www.astropy.org/####
+####http://www.numpy.org/####
+####https://matplotlib.org/####
+####https://www.scipy.org/####
+
+####JAZ Spectrometer Manual#####
+####http://oceanoptics.com/wp-content/uploads/Jazinstallationandoperation.pdf####
 
 
 ###Read the data###
